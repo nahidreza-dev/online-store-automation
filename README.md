@@ -56,7 +56,7 @@ Payment recorded, stock reserved, fake-order check, automatic confirmation call,
 
 ## Features
 
-**Storefront:** mobile-first design · USD and BDT markets · product pages with size guide · colour and size selection with validation · wishlist · search · discount codes · order tracking · newsletter sign-up · sold-out "notify me"
+**Storefront:** mobile-first design · USD and BDT markets · product pages with size guide · colour and size selection, with a clear warning if either is missing · wishlist · search · discount codes · order tracking · newsletter sign-up · sold-out "notify me"
 
 **Payments and delivery:** cash on delivery, bKash, Nagad, cards (Bangladesh) · cards, PayPal, Apple Pay (worldwide) · Steadfast, Pathao, RedX, DHL, UPS, Royal Mail
 
@@ -66,13 +66,34 @@ Payment recorded, stock reserved, fake-order check, automatic confirmation call,
 
 **Documents:** invoices and courier labels (print or PDF) · receipts · CSV export of orders and customers · monthly PDF report
 
+## After launch: growth and marketing
+
+![Growth and marketing](https://nahidreza.com/gh/13-growth.jpg)
+
+A store only matters if it sells. After launch, the same person who built it can run the growth side, so nothing falls between a developer, an SEO agency and an ads agency.
+
+| | Service | What it covers |
+|:-:|---|---|
+| 🔍 | **SEO** | Technical SEO, product and category pages, Google Search Console |
+| 🎯 | **Google Ads** | Search, Shopping and Performance Max, with sales tracking |
+| 📱 | **Facebook and Instagram Ads** | Campaigns, pixel and Conversions API, retargeting |
+| ✍️ | **Content** | Product descriptions, category pages, blog posts |
+| 📣 | **Social media** | Regular posts and page care, replies through the AI inbox |
+| ✉️ | **Email and SMS** | Offers, abandoned-bag reminders, win-back campaigns |
+| 📊 | **Monthly report** | Spend, sales and profit in plain words, plus next month's plan |
+| 🛡️ | **Care and support** | Updates, backups, security and small changes every month |
+
+**One person. One plan. One monthly report.** Growth care can be added to any package, monthly.
+
+---
+
 ## Tested on
 
-Desktop, laptop, tablet and phones from 360px wide. Every button, form, download and menu checked on each size before release.
+Desktop, laptop, tablet and phones from 320px wide, including phones in "desktop site" mode. Every button, form, download and menu checked on each size before release, and the desktop and phone menus are checked to lead to the same places.
 
 ## Packages
 
-Built for each client, not from a template. Three ways to start: **Launch** (first real store), **Grow** (a store that runs itself) and **Scale** (full business system with team roles and custom features). The client owns the code, domain and accounts; payment is in milestones.
+Built for each client, not from a template. Three ways to start: **Launch** (first real store), **Grow** (a store that runs itself, with Google and Facebook ads set up and tracked) and **Scale** (full business system with team roles, custom features and monthly growth care). The client owns the code, domain and accounts; payment is in milestones.
 
 **[See the packages and book a free call →](https://nahidreza.com/ecommerce#packages)**
 
